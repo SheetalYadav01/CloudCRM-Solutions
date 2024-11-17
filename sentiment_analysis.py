@@ -1,5 +1,9 @@
 import pandas as pd
 from textblob import TextBlob
+import torch
+import torch.nn as nn
+import torch.optim as optim
+from torchtext.legacy import data, datasets
 
 #Jenkins pipeline test
 def analyze_sentiment(text):
