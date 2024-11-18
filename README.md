@@ -1,4 +1,3 @@
-Copy code
 # Sentiment Analysis Project
 
 This project is a sentiment analysis application that classifies text strings into one of three sentiments: *Positive, **Negative, or **Neutral*. The project uses the ⁠ TextBlob ⁠ library for sentiment classification and has been tested on a Kaggle sentiment analysis dataset.
